@@ -8,4 +8,5 @@
 * [登录](shi-yong-shou-ce/untitled.md)
 * [招商管理](shi-yong-shou-ce/zhao-shang-guan-li/README.md)
   * [渠道管理](shi-yong-shou-ce/zhao-shang-guan-li/qu-dao-guan-li.md)
+  * [楼宇管理](shi-yong-shou-ce/zhao-shang-guan-li/lou-yu-guan-li.md)
 
