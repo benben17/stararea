@@ -34,7 +34,8 @@
   * [Untitled](shi-yong-shou-ce/zhao-shang-guan-li/untitled-4.md)
   * [Untitled](shi-yong-shou-ce/zhao-shang-guan-li/untitled-3.md)
   * [Untitled](shi-yong-shou-ce/zhao-shang-guan-li/untitled-2.md)
-* [运营管理](shi-yong-shou-ce/yun-ying-guan-li.md)
+* [运营管理](shi-yong-shou-ce/yun-ying-guan-li/README.md)
+  * [租户管理](shi-yong-shou-ce/yun-ying-guan-li/zu-hu-guan-li.md)
 * [系统设置](shi-yong-shou-ce/untitled-1.md)
 * [FAQ](shi-yong-shou-ce/untitled-2.md)
 
