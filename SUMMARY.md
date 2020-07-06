@@ -14,6 +14,7 @@
   * [楼宇管理](shi-yong-shou-ce/zhao-shang-guan-li/lou-yu-guan-li.md)
   * [空间管理](shi-yong-shou-ce/zhao-shang-guan-li/kong-jian-guan-li/README.md)
     * [房源管理](shi-yong-shou-ce/zhao-shang-guan-li/kong-jian-guan-li/fang-yuan-guan-li.md)
+    * [工位管理](shi-yong-shou-ce/zhao-shang-guan-li/kong-jian-guan-li/gong-wei-guan-li.md)
   * [场馆管理](shi-yong-shou-ce/zhao-shang-guan-li/chang-guan-guan-li/README.md)
     * [场馆管理](shi-yong-shou-ce/zhao-shang-guan-li/chang-guan-guan-li/chang-guan-guan-li.md)
     * [场馆预定](shi-yong-shou-ce/zhao-shang-guan-li/chang-guan-guan-li/chang-guan-yu-ding.md)
