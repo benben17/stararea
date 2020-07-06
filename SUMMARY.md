@@ -36,6 +36,9 @@
   * [Untitled](shi-yong-shou-ce/zhao-shang-guan-li/untitled-2.md)
 * [运营管理](shi-yong-shou-ce/yun-ying-guan-li/README.md)
   * [租户管理](shi-yong-shou-ce/yun-ying-guan-li/zu-hu-guan-li.md)
+  * [能耗管理](shi-yong-shou-ce/yun-ying-guan-li/neng-hao-guan-li.md)
+  * [供应商管理](shi-yong-shou-ce/yun-ying-guan-li/gong-ying-shang-guan-li.md)
+  * [公共关系管理](shi-yong-shou-ce/yun-ying-guan-li/gong-gong-guan-xi-guan-li.md)
 * [系统设置](shi-yong-shou-ce/untitled-1.md)
 * [FAQ](shi-yong-shou-ce/untitled-2.md)
 
