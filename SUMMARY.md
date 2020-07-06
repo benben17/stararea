@@ -15,6 +15,7 @@
   * [空间管理](shi-yong-shou-ce/zhao-shang-guan-li/kong-jian-guan-li.md)
   * [场馆管理](shi-yong-shou-ce/zhao-shang-guan-li/chang-guan-guan-li/README.md)
     * [场馆管理](shi-yong-shou-ce/zhao-shang-guan-li/chang-guan-guan-li/chang-guan-guan-li.md)
+    * [场馆预定](shi-yong-shou-ce/zhao-shang-guan-li/chang-guan-guan-li/chang-guan-yu-ding.md)
   * [客户管理](shi-yong-shou-ce/zhao-shang-guan-li/untitled-9/README.md)
     * [我的客户](shi-yong-shou-ce/zhao-shang-guan-li/untitled-9/wo-de-ke-hu.md)
     * [跟进提醒](shi-yong-shou-ce/zhao-shang-guan-li/untitled-9/gen-jin-ti-xing.md)
