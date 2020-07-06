@@ -7,16 +7,14 @@
 **一、使用说明**
 
 * 操作系统
-  * 建议操作系统：Windows 7 、10或以上版本, macOs Yosemite 或以上版本
+  * 建议操作系统：Windows 7 、10或以上版本, macOs 10 或以上版本
 * 浏览器
-  * 建议浏览器：Chrome 49 版本或以上版本（[可以通过此链接检查您的Chrome内核版本](https://liulanmi.com/labs/core.html)）
+  * 建议浏览器：Chrome 79 版本或以上版本（[可以通过此链接检查您的Chrome内核版本](https://liulanmi.com/labs/core.html)）
   * 建议分辨率：1280\*1024 以上像素
   * 浏览器下载地址：
+
     * Windows 最新 32 位系统 Chrome [下载地址](https://downloads.creams.io/chrome/Google_Chrome_32bit_v77.0.3865.90.exe)
     * Windows 最新 64 位系统 Chrome [下载地址](https://downloads.creams.io/chrome/Google_Chrome_64bit_v77.0.3865.90.exe)
-    * Windows XP 兼容 32 位系统 Chrome [下载地址](https://downloads.creams.io/chrome/Google_Chrome_32bit_v49.0.2623.112_XP.exe)
-    * Windows XP 兼容 64 位系统 Chrome [下载地址](https://downloads.creams.io/chrome/Google_Chrome_64bit_v49.0.2623.112_XP.exe)
-    * MAC Chrome [下载地址](https://www.google.cn/chrome/thank-you.html?statcb=0&installdataindex=empty&defaultbrowser=0#)
 
 **二、快速入门**
 
