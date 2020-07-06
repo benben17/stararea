@@ -1,25 +1,19 @@
 # 登陆
 
-## Getting Super Powers
+## 浏览器选择
 
-Becoming a super hero is a fairly straight forward process:
+Firfox 或者Chrome最新版本，浏览器安装完成之后输入登陆地址  
+app.stararea.cn
 
-```
-$ give me super-powers
-```
+![](.gitbook/assets/image.png)
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+输入用户名密码进行登陆。（如没有用户名密码，请联系商务获取用户名\)
 
-Once you're strong enough, save the world:
+登陆成功则看到如下页面，登陆成功
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+![](.gitbook/assets/wx20200706-134356-2x.png)
+
+
 
 
 
