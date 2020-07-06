@@ -2,7 +2,7 @@
 
 * [更新日志](README.md)
 * [快速上手](kuai-su-shang-shou.md)
-* [登陆](deng-lu.md)
+* [登录](deng-lu.md)
 
 ## 使用手册
 
