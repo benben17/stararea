@@ -34,4 +34,10 @@
   * [Untitled](shi-yong-shou-ce/zhao-shang-guan-li/untitled-4.md)
   * [Untitled](shi-yong-shou-ce/zhao-shang-guan-li/untitled-3.md)
   * [Untitled](shi-yong-shou-ce/zhao-shang-guan-li/untitled-2.md)
+* [运营管理](shi-yong-shou-ce/yun-ying-guan-li.md)
+
+---
+
+* [Untitled](untitled-1.md)
+* [Untitled](untitled.md)
 
