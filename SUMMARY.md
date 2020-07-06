@@ -11,5 +11,7 @@
     * [渠道管理](shi-yong-shou-ce/zhao-shang-guan-li/qu-dao-guan-li/qu-dao-guan-li.md)
     * [渠道政策](shi-yong-shou-ce/zhao-shang-guan-li/qu-dao-guan-li/qu-dao-zheng-ce.md)
     * [渠道维护](shi-yong-shou-ce/zhao-shang-guan-li/qu-dao-guan-li/qu-dao-wei-hu.md)
-  * [楼宇管理](shi-yong-shou-ce/zhao-shang-guan-li/lou-yu-guan-li.md)
+  * [楼宇管理](shi-yong-shou-ce/zhao-shang-guan-li/lou-yu-guan-li/README.md)
+    * [项目管理](shi-yong-shou-ce/zhao-shang-guan-li/lou-yu-guan-li/xiang-mu-guan-li.md)
+    * [楼层管理](shi-yong-shou-ce/zhao-shang-guan-li/lou-yu-guan-li/lou-ceng-guan-li.md)
 
