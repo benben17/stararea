@@ -1,27 +1,31 @@
 # 更新日志
 
+## 2020-05-01
 
+### Fixed
 
-## Getting Super Powers
+* 渠道政策修复
+* 渠道佣金修复
 
-Becoming a super hero is a fairly straight forward process:
+### Changed
 
-```
-$ give me super-powers
-```
+* 水电手机在线抄表
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+## 2019-12-12
 
-Once you're strong enough, save the world:
+星图智园1.0发布
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+* 招商管理
+  * 渠道管理
+  * 楼宇管理
+  * 房源管理
+  * 空间管理
+  * 客户管理
+  * 合同管理
+* 运营管理
+  * 租户管理
+  * 能耗管理
+  * 工单管理
 
 
 
