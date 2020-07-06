@@ -4,6 +4,8 @@
 
 Firfox 或者Chrome最新版本，浏览器安装完成之后开始系统登陆
 
+浏览器下载地址请查看 **快速上手**
+
 ### 登录
 
 输入系统地址 [app.stararea.cn](http://app.stararea.cn)  
