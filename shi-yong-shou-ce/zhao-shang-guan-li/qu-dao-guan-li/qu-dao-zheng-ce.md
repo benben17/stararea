@@ -1,25 +1,16 @@
 # 渠道政策
 
-## Getting Super Powers
+### 渠道政策列表
 
-Becoming a super hero is a fairly straight forward process:
+* 渠道政策名称、结算类型（固定佣金、浮动佣金）、返佣 、状态，双击查看佣金政策详细信息
 
-```
-$ give me super-powers
-```
+![](../../../.gitbook/assets/image%20%281%29.png)
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+### 新增渠道政策
 
-Once you're strong enough, save the world:
+![](../../../.gitbook/assets/image%20%282%29.png)
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+输入政策名称、返佣信息（几个月租金）、备注信息，点击确定按钮进行保存
 
 
 
